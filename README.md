@@ -1,2 +1,2 @@
 # Sem-3_DS
-This is about data structure.
+I have created telephone directory using link list in java.
